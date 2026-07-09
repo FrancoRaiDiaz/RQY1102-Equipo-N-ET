@@ -8,4 +8,5 @@ El Condominio "El Mirador" enfrenta graves problemas de administración manual, 
 
 ## Solución (Prototipo)
 Se diseñó un sistema web integral que automatiza la gestión financiera, el control de bitácoras y la comunicación comunitaria. 
-*   **Enlace al prototipo:** [Pega tu link del sistema funcional o Figma aquí]
+*   **Enlace al prototipo:** https://www.figma.com/make/uZz2zbc5kwraPKCDOGP4CN/Sistema-de-dise%C3%B1o-Edificio-El-Mirador?fullscreen=1&t=UasdzqDuOQwysdE4-1&code-node-id=0-9
+
